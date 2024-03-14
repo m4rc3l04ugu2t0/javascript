@@ -26,7 +26,7 @@ let numberPhone = '55 86 99999-9999'
 // log = larstName
 
 // ---------- METHOD CHAINING -------------
-userName = 'marceLO'
+userName = '  marceLO'
 userName = userName.trim().charAt(0).toUpperCase() + userName.trim().slice(1).toLowerCase()
 log = userName
 
